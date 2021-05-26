@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: post 
 title: "ABOUT"
-permalink: murtinauth.github.io/about
+categories: about
 ---
 this is the about me page
