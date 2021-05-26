@@ -1,5 +1,5 @@
 layout: page
 title: "ABOUT"
-permalink: /about/
+permalink: murtinauth.github.io/about/
 
 this is the about me page
