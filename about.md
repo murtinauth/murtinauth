@@ -5,6 +5,7 @@
     <title>Home</title>
   </head>
   <body>
-    <h1>Hello, this is the about page!</h1>
+    <h1>### Hello, this is the about page. Read below to learn more about me. </h1>
   </body>
 </html>
+
