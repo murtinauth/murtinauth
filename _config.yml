@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Hi, I'm Murti! 
 description: Welcome to my personal webpage. I work in planetary science research and I like to play on this planet.
 permalink: /:title:output_ext
-include: ['pages']
+include: /pages/
